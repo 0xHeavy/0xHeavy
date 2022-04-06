@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @0xHeavy
+- 👋 Hi, I’m @0xHeavy WAGMI
